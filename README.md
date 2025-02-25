@@ -4,6 +4,9 @@ This is the Gujarat Tourism website created using PHP, Bootstrap, and JavaScript
 
 For creating a Database in Xammp send me a request to below Google Drive link:
 👇👇👇👇👇👇👇👇👇👇
+
+Price: ₹99/- (Contact: 9081373973)
+
 https://drive.google.com/file/d/13J_whsVIVIxZ-UvTl5X1_DAC1uxAwuEJ/view?usp=sharing
 
 ![Screenshot 2023-08-23 at 11 09 26 AM](https://github.com/Amit-korat/Tourisum_Website-using-PHP/assets/84698174/63073c25-51c6-43df-bef2-436cb158681e)
